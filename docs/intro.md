@@ -1,4 +1,9 @@
 ---
+id: intro
+title: Introduction
+---
+# Welcome to Docs
+---
 sidebar_position: 1
 ---
 
