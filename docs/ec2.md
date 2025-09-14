@@ -53,3 +53,7 @@ Amazon EC2 (Elastic Compute Cloud) is a core AWS service that provides scalable,
 
 You can manage EC2 via the AWS Console, CLI, SDKs, or APIs. Pricing includes Free Tier, On-Demand, Reserved, and Spot Instances. EC2 is suitable for web hosting, applications, and compute-intensive tasks.
 
+## Types of EC2
+
+For details on EC2 instance types, see the [Types of EC2](types of ec2.md) document.
+
