@@ -21,6 +21,19 @@ module.exports = {
       label: 'Tutorial',
       items: ['hello'],
     },
+    {module.exports = {
+  tutorialSidebar: [
+    {
+      type: 'category',
+      label: 'introduction',
+      items: [
+        'introduction/ec2',
+        'introduction/types-of-ec2',
+      ],
+    },
+  ],
+};
+}
   ],
    */
 };
