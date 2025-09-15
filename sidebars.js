@@ -21,19 +21,21 @@ module.exports = {
       label: 'Tutorial',
       items: ['hello'],
     },
-    {module.exports = {
+    module.exports = {
   tutorialSidebar: [
     {
       type: 'category',
-      label: 'introduction',
+      label: 'ec2',
       items: [
-        'introduction/ec2',
-        'introduction/types-of-ec2',
+        'ec2-intro',
+        'eks-and-cloud-overview',
+        'types-of-ec2',
       ],
     },
   ],
 };
-}
+
+    }
   ],
    */
 };
